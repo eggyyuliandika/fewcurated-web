@@ -7,33 +7,33 @@ export default function Home() {
     <div>
       <div className="z-10 flex justify-between px-20 pt-3 items-center fixed top-0 left-0 right-0 bg-white  ">
         <div>
-          <img src="brand.svg" className="py-3 pr-3" />
+          <img src="brand.svg" className="py-3 pr-3 cursor-pointer" />
         </div>
         <div className="flex text-lg gap-1">
-          <div className="p-3 mx-1">
+          <div className="p-3 mx-1 cursor-pointer">
             <a href="">All</a>
           </div>
-          <div className="p-3 mx-1">
+          <div className="p-3 mx-1mcursor-pointer">
             <a href="">Home</a>
           </div>
-          <div className="p-3 mx-1">
+          <div className="p-3 mx-1 cursor-pointer">
             <a href="">Kitchen</a>
           </div>
-          <div className="p-3 mx-1">
+          <div className="p-3 mx-1 cursor-pointer">
             <a href="">Work</a>
           </div>
-          <div className="p-3 mx-1">
+          <div className="p-3 mx-1 cursor-pointer">
             <a href="">Travel</a>
           </div>
-          <div className="p-3 mx-1">
+          <div className="p-3 mx-1 cursor-pointer">
             <a href="">Tech</a>
           </div>
-          <div className="p-3 mx-1 text-[#DC2423]">
+          <div className="p-3 mx-1 text-[#DC2423] cursor-pointer">
             <a href="">Gift Guide</a>
           </div>
         </div>
         <div>
-          <img src="search.svg" className="p-3" />
+          <img src="search.svg" className="p-3 cursor-pointer" />
         </div>
       </div>
       <div className="mt-[180px] pb-[100px] px-20">
@@ -53,7 +53,9 @@ export default function Home() {
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
             <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Steamery</span>
+              <span className="mt-[18px] text-lg text-[#757575] ">
+                Steamery
+              </span>
               <span className="my-px text-xl">Cirrus No.3 Iron Steamer</span>
               <span className="text-xl">$180</span>
             </div>
@@ -500,29 +502,38 @@ export default function Home() {
         <span className="text-[26px] mt-[0.8em] mb-[1.4em]">
           Get curated essentials and updates to your inbox.
         </span>
-        <div className="w-96 m-auto">
-          <div className="flex items-center h-14 bg-white pl-10 pr-5 rounded-full justify-between border border-gray-300 hover:border-sky-300">
+        {/* <label className="block">
+          <input
+            className="px-[100px] mt-1 px-3 py-2 bg-white border shadow-sm border-gray-300 placeholder-gray-400 focus:outline-none focus:border-sky-500 focus:ring-sky-500 block w-full rounded-md sm:text-sm focus:ring-1"
+            placeholder="Your Email"
+            type="image"
+            src="rightarrow.svg" */}
+
+        {/* <button>
+            <img
+              className="cursor-pointer rounded-[30px] "
+              src="rightarrow.svg"
+            />
+          </button> */}
+        {/* </label> */}
+        <div className="m-auto ">
+          <div className="flex items-center h-14">
             <input
-              className="text-xl focus:outline-none focus:border-sky-500 focus:ring-sky-500"
+              className="pl-[28px] text-[20px] outline-none h-[55px] w-[400px] border border-gray-300 bg-transparent rounded-[32px] group-focus:outline-none group-focus:border-sky-500 focus:ring-sky-500 block focus:ring-1"
               type="email"
               placeholder="Your email"
             />
-            <button>
-              <img
-                className="cursor-pointer rounded-[30px] "
-                src="rightarrow.svg"
-              />
-            </button>
+            <img src="arrowright.svg" className="absolute left-[905px]" />
           </div>
         </div>
       </div>
       <div className="flex justify-between align-center py-[40px] px-[80px]">
         <div className="text-lg ">
-          <span className="py-[12x] mr-[24px] ">About</span>
-          <span className="py-[12x] mr-[24px]">Instagram</span>
-          <span className="py-[12x] mr-[24px]">Twitter</span>
-          <span className="py-[12x] mr-[24px]">Privacy</span>
-          <span className="py-[12x] mr-[24px]">Feedback</span>
+          <span className="py-[12x] mr-[24px] cursor-pointer">About</span>
+          <span className="py-[12x] mr-[24px] cursor-pointer">Instagram</span>
+          <span className="py-[12x] mr-[24px] cursor-pointer">Twitter</span>
+          <span className="py-[12x] mr-[24px] cursor-pointer">Privacy</span>
+          <span className="py-[12x] mr-[24px] cursor-pointer">Feedback</span>
         </div>
         <div>
           <span className="text-lg">© 2021 Few · All rights reserved</span>
