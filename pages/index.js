@@ -48,17 +48,15 @@ export default function Home() {
               src="product1.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Steamery
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575] ">
-                Steamery
-              </span>
-              <span className="my-px text-xl">Cirrus No.3 Iron Steamer</span>
-              <span className="text-xl">$180</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575] ">Steamery</span>
+            <span className="my-px text-xl">Cirrus No.3 Iron Steamer</span>
+            <span className="text-xl">$180</span>
           </div>
         </div>
         <div className="h-auto group">
@@ -67,17 +65,17 @@ export default function Home() {
               src="product2.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Bose</span>
-              <span className="my-px text-xl">
-                Noise Cancelling Headphones 700
-              </span>
-              <span className="text-xl">$379</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Bose</span>
+            <span className="my-px text-xl">
+              Noise Cancelling Headphones 700
+            </span>
+            <span className="text-xl">$379</span>
           </div>
         </div>
         <div className="h-auto group">
@@ -86,17 +84,17 @@ export default function Home() {
               src="product3.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Jinen
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">
-                Hasami Porcelain
-              </span>
-              <span className="my-px text-xl">Natural Mug</span>
-              <span className="text-xl">$27</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">
+              Hasami Porcelain
+            </span>
+            <span className="my-px text-xl">Natural Mug</span>
+            <span className="text-xl">$27</span>
           </div>
         </div>
         <div className="h-auto group">
@@ -105,15 +103,15 @@ export default function Home() {
               src="product4.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Fellow</span>
-              <span className="my-px text-xl">Stagg EKG Electric Kettle</span>
-              <span className="text-xl">$159</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Fellow</span>
+            <span className="my-px text-xl">Stagg EKG Electric Kettle</span>
+            <span className="text-xl">$159</span>
           </div>
         </div>
         <div className="h-auto group">
@@ -122,15 +120,15 @@ export default function Home() {
               src="product5.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Quip
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Quip</span>
-              <span className="my-px text-xl">Electric Tootbrush</span>
-              <span className="text-xl">$40</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Quip</span>
+            <span className="my-px text-xl">Electric Tootbrush</span>
+            <span className="text-xl">$40</span>
           </div>
         </div>
         <div className="h-auto group">
@@ -139,15 +137,15 @@ export default function Home() {
               src="product6.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Away
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Away</span>
-              <span className="my-px text-xl">The Front Backpack</span>
-              <span className="text-xl">$195</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Away</span>
+            <span className="my-px text-xl">The Front Backpack</span>
+            <span className="text-xl">$195</span>
           </div>
         </div>
       </div>
@@ -190,56 +188,59 @@ export default function Home() {
               src="product7.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Onsen</span>
-              <span className="my-px text-xl">Bath Towel Set</span>
-              <span className="text-xl">$75</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Onsen</span>
+            <span className="my-px text-xl">Bath Towel Set</span>
+            <span className="text-xl">$75</span>
           </div>
         </div>
+
         <div className="h-auto group">
           <div className="relative overflow-hidden">
             <img
               src="product8.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Birkenstock
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">
-                Birkenstock
-              </span>
-              <span className="my-px text-xl">Zerman Shearling Slippers</span>
-              <span className="text-xl">$100</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">
+              Birkenstock
+            </span>
+            <span className="my-px text-xl">Zerman Shearling Slippers</span>
+            <span className="text-xl">$100</span>
           </div>
         </div>
+
         <div className="h-auto group">
           <div className="relative overflow-hidden">
             <img
               src="product9.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">
-                Alaska Bear
-              </span>
-              <span className="my-px text-xl">Sleep Mask</span>
-              <span className="text-xl">$10</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">
+              Alaska Bear
+            </span>
+            <span className="my-px text-xl">Sleep Mask</span>
+            <span className="text-xl">$10</span>
           </div>
         </div>
       </div>
+
       <div className="pt-[40px] flex justify-center">
         <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition duration-3000 cursor-pointer">
           <p className="px-[24px] py-[14px] text-lg">See all Home</p>
@@ -255,56 +256,59 @@ export default function Home() {
               src="product10.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Global</span>
-              <span className="my-px text-xl">
-                G-2 Chefs Knife with Sharpener
-              </span>
-              <span className="text-xl">$150</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Global</span>
+            <span className="my-px text-xl">
+              G-2 Chefs Knife with Sharpener
+            </span>
+            <span className="text-xl">$150</span>
           </div>
         </div>
+
         <div className="h-auto group">
           <div className="relative overflow-hidden">
             <img
               src="product11.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Lodge</span>
-              <span className="my-px text-xl">
-                12 Seasoned Crbon Steel Skillet
-              </span>
-              <span className="text-xl">$45</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Lodge</span>
+            <span className="my-px text-xl">
+              12 Seasoned Crbon Steel Skillet
+            </span>
+            <span className="text-xl">$45</span>
           </div>
         </div>
+
         <div className="h-auto group">
           <div className="relative overflow-hidden">
             <img
               src="product12.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Menu</span>
-              <span className="my-px text-xl">Bootle Grinders</span>
-              <span className="text-xl">$95</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Menu</span>
+            <span className="my-px text-xl">Bootle Grinders</span>
+            <span className="text-xl">$95</span>
           </div>
         </div>
       </div>
+
       <div className="pt-[40px] flex justify-center">
         <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition duration-3000 cursor-pointer">
           <p className="px-[24px] py-[14px] text-lg">See all Kitchen</p>
@@ -320,54 +324,57 @@ export default function Home() {
               src="product13.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Midori</span>
-              <span className="my-px text-xl">MD Notebook</span>
-              <span className="text-xl">$13</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Midori</span>
+            <span className="my-px text-xl">MD Notebook</span>
+            <span className="text-xl">$13</span>
           </div>
         </div>
+
         <div className="h-auto group">
           <div className="relative overflow-hidden">
             <img
               src="product14.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Fully
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Fully</span>
-              <span className="my-px text-xl">Jarvis Bamboo Standing Desk</span>
-              <span className="text-xl">$569</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Fully</span>
+            <span className="my-px text-xl">Jarvis Bamboo Standing Desk</span>
+            <span className="text-xl">$569</span>
           </div>
         </div>
+
         <div className="h-auto group">
           <div className="relative overflow-hidden">
             <img
               src="product15.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">
-                Rain Design
-              </span>
-              <span className="my-px text-xl">mStand Laptop Stand</span>
-              <span className="text-xl">$40</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">
+              Rain Design
+            </span>
+            <span className="my-px text-xl">mStand Laptop Stand</span>
+            <span className="text-xl">$40</span>
           </div>
         </div>
       </div>
+
       <div className="pt-[40px] flex justify-center">
         <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition duration-3000 cursor-pointer">
           <p className="px-[24px] py-[14px] text-lg">See all Work</p>
@@ -383,15 +390,15 @@ export default function Home() {
               src="product16.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Away
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Away</span>
-              <span className="my-px text-xl">The Carry-On</span>
-              <span className="text-xl">$255</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Away</span>
+            <span className="my-px text-xl">The Carry-On</span>
+            <span className="text-xl">$255</span>
           </div>
         </div>
         <div className="h-auto group">
@@ -400,32 +407,33 @@ export default function Home() {
               src="product17.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Kinto</span>
-              <span className="my-px text-xl">Travel Tumbler 500ml</span>
-              <span className="text-xl">$37</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Kinto</span>
+            <span className="my-px text-xl">Travel Tumbler 500ml</span>
+            <span className="text-xl">$37</span>
           </div>
         </div>
+
         <div className="h-auto group">
           <div className="relative overflow-hidden">
             <img
               src="product18.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Nexstand</span>
-              <span className="my-px text-xl">Portable Laptop Stanad</span>
-              <span className="text-xl">$30</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Nexstand</span>
+            <span className="my-px text-xl">Portable Laptop Stanad</span>
+            <span className="text-xl">$30</span>
           </div>
         </div>
       </div>
@@ -444,17 +452,15 @@ export default function Home() {
               src="product19.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Belkin</span>
-              <span className="my-px text-xl">
-                Wireless Charger with MagSafe
-              </span>
-              <span className="text-xl">$90</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Belkin</span>
+            <span className="my-px text-xl">Wireless Charger with MagSafe</span>
+            <span className="text-xl">$90</span>
           </div>
         </div>
         <div className="h-auto group">
@@ -463,15 +469,15 @@ export default function Home() {
               src="product20.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Sonos</span>
-              <span className="my-px text-xl">One Smart Speaker</span>
-              <span className="text-xl">$269</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Sonos</span>
+            <span className="my-px text-xl">One Smart Speaker</span>
+            <span className="text-xl">$269</span>
           </div>
         </div>
         <div className="h-auto group">
@@ -480,15 +486,15 @@ export default function Home() {
               src="product21.png"
               className="group-hover:brightness-90 cursor-pointer rounded-[32px] transition duration-3250"
             />
-            <button className="absolute bottom-[120px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
+            <button className="absolute bottom-[14px] right-[14px] text-gray-600 bg-white px-[16px] py-[7px] rounded-[32px] translate-y-[200px] group-hover:translate-y-0 transition flex justify-center items-center duration-[250]">
               Amazon
               <img src="arrow.svg" className="pl-[4px] pt-[6px]" />
             </button>
-            <div className="flex flex-col">
-              <span className="mt-[18px] text-lg text-[#757575]">Amazon</span>
-              <span className="my-px text-xl">2021 Kindle Paperwhite</span>
-              <span className="text-xl">$140</span>
-            </div>
+          </div>
+          <div className="flex flex-col">
+            <span className="mt-[18px] text-lg text-[#757575]">Amazon</span>
+            <span className="my-px text-xl">2021 Kindle Paperwhite</span>
+            <span className="text-xl">$140</span>
           </div>
         </div>
       </div>
@@ -502,20 +508,7 @@ export default function Home() {
         <span className="text-[26px] mt-[0.8em] mb-[1.4em]">
           Get curated essentials and updates to your inbox.
         </span>
-        {/* <label className="block">
-          <input
-            className="px-[100px] mt-1 px-3 py-2 bg-white border shadow-sm border-gray-300 placeholder-gray-400 focus:outline-none focus:border-sky-500 focus:ring-sky-500 block w-full rounded-md sm:text-sm focus:ring-1"
-            placeholder="Your Email"
-            type="image"
-            src="rightarrow.svg" */}
 
-        {/* <button>
-            <img
-              className="cursor-pointer rounded-[30px] "
-              src="rightarrow.svg"
-            />
-          </button> */}
-        {/* </label> */}
         <div className="m-auto ">
           <div className="flex items-center h-14">
             <input
