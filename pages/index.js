@@ -150,7 +150,7 @@ export default function Home() {
         </div>
       </div>
       <div className="pt-[40px] flex justify-center">
-        <button className="border border-black cursor-pointer rounded-[32px] hover:bg-black hover:text-white transition duration-3000">
+        <button className="border border-black cursor-pointer rounded-[32px] hover:bg-black hover:text-white transition-colors duration-300">
           <p className="px-[24px] py-[14px] text-lg">See all Product</p>
         </button>
       </div>
@@ -242,7 +242,7 @@ export default function Home() {
       </div>
 
       <div className="pt-[40px] flex justify-center">
-        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition duration-3000 cursor-pointer">
+        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition-colors duration-300 cursor-pointer">
           <p className="px-[24px] py-[14px] text-lg">See all Home</p>
         </button>
       </div>
@@ -310,7 +310,7 @@ export default function Home() {
       </div>
 
       <div className="pt-[40px] flex justify-center">
-        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition duration-3000 cursor-pointer">
+        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition-colors duration-300 cursor-pointer">
           <p className="px-[24px] py-[14px] text-lg">See all Kitchen</p>
         </button>
       </div>
@@ -376,7 +376,7 @@ export default function Home() {
       </div>
 
       <div className="pt-[40px] flex justify-center">
-        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition duration-3000 cursor-pointer">
+        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition-colors duration-300 cursor-pointer">
           <p className="px-[24px] py-[14px] text-lg">See all Work</p>
         </button>
       </div>
@@ -438,7 +438,7 @@ export default function Home() {
         </div>
       </div>
       <div className="pt-[40px] flex justify-center">
-        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition duration-3000 cursor-pointer">
+        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition-colors duration-300 cursor-pointer">
           <p className="px-[24px] py-[14px] text-lg">See all Travel</p>
         </button>
       </div>
@@ -499,7 +499,7 @@ export default function Home() {
         </div>
       </div>
       <div className="pt-[40px] flex justify-center">
-        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition duration-3000 cursor-pointer">
+        <button className="border border-black rounded-[32px] hover:bg-black hover:text-white transition-colors duration-300 cursor-pointer">
           <p className="px-[24px] py-[14px] text-lg">See all Tech</p>
         </button>
       </div>
@@ -510,15 +510,15 @@ export default function Home() {
         </span>
 
         <div className="m-auto ">
-          <div className="flex items-center h-14">
+          <div className="flex items-center h-14 ">
             <input
-              className="pl-[28px] text-[20px] outline-none h-[55px] w-[400px] border border-gray-300 bg-transparent rounded-[32px] group-focus:outline-none group-focus:border-sky-500 focus:ring-sky-500 block focus:ring-1"
+              className=" pl-[28px] text-[20px] outline-none h-[55px] w-[400px] border border-gray-300 bg-transparent rounded-[32px] group-focus:outline-none group-focus:border-sky-500 focus:ring-sky-500 block focus:ring-1"
               type="email"
               placeholder="Your email"
             />
             <img
               src="arrowright.svg"
-              className="absolute md:left-[830px] left-[905px]"
+              className="absolute lg-[1440px]:left-[830px] left-[905px]"
             />
           </div>
         </div>
