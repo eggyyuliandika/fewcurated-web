@@ -516,7 +516,10 @@ export default function Home() {
               type="email"
               placeholder="Your email"
             />
-            <img src="arrowright.svg" className="absolute left-[905px]" />
+            <img
+              src="arrowright.svg"
+              className="absolute md:left-[870px] left-[905px]"
+            />
           </div>
         </div>
       </div>
