@@ -518,7 +518,7 @@ export default function Home() {
             />
             <img
               src="arrowright.svg"
-              className="absolute md:left-[850px] left-[905px]"
+              className="absolute md:left-[830px] left-[905px]"
             />
           </div>
         </div>
